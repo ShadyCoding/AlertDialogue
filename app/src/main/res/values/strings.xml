@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AlertDialogue</string>
+    <string name="show_dailog">Show Alert Dailog</string>
+    <string name="title">Show Dailog</string>
+    <string name="done">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
